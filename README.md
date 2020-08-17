@@ -1,2 +1,2 @@
-# Natural-Language-Analysis-with-Covid-19-
+# Text Summarizaiton with LSTM
 A respository for Research Project
